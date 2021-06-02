@@ -1,0 +1,11 @@
+commit 852e6e169b6d2a1fe14d6912f99cc58c6c11b404
+Author: Alex <hdelvalle29@gmail.com>
+Date:   Wed Jun 2 17:20:24 2021 -0500
+
+    Se modifico categorias
+
+commit 526cb27617d1a6735ddc6723e84e4653c0362def
+Author: Alex <hdelvalle29@gmail.com>
+Date:   Thu May 13 15:24:39 2021 -0500
+
+    Iniciamos

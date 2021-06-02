@@ -59,3 +59,15 @@ form.link input[type="submit"]{
 	border:none;
 	color:rgb(200,50,50);
 }
+
+.btn{
+	 padding: 10px 20px;
+	 border-radius: 5px;
+	 border:#DB432C;
+	 background-color: #D4C31C;
+	 color:red;
+}
+.btn:hover{
+	transform : scale(1,2);
+
+}
