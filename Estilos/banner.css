@@ -16,13 +16,13 @@ margin: 100px;
 #menu ul li.nivel1 { 
 width: 162px;
 }
-#menu ul li.primera { border-top: solid 1px #FFF;
+#menu ul li.primera { border-top: solid 1px #ffa500;
 }
 #menu ul li a {display: block;
 text-decoration: none;
-color: #fff;
+color: #ffa500;
 background-color: #399;
-border: solid 1px #fff;
+border: solid 1px #ffa500;
 border-top: none;
 padding: 0px;
 font-size:20px;
@@ -31,11 +31,11 @@ position: relative;
 }
 #menu ul li:hover {position: relative;
 background-color: #6CD;
-color: #000;
+color: #ffa500;
 }
 
 #menu ul li a:hover, #menu ul li:hover a.nivel1 {background-color: #6CC;
-color: #000;
+color: #ffa500;
 position: relative;
 }
 #menu ul li a.nivel1 {display: block!important;display: none;
@@ -48,11 +48,11 @@ position: absolute;left: 161px;top:-1px!important;top: -31px;
 }
 #menu ul li ul li a {width: 160px;
 background-color: #6CC;
-color: #000;
+color: #ffa500;
 }
 #menu ul li ul li a:hover {position: relative;
 background-color: #399;
-color: #FFF;
+color: #ffa500;
 }
 table.falsa {border-collapse:collapse;
 border:0px;
@@ -66,7 +66,7 @@ margin:0 5px;
     padding:5px 15px;
     border:1px solid #dcdcdc;
     border-radius:6px;
-    color:#777;
+    color:#ffa500;
     text-decoration: none;
     font:bold 0.8em arial,sans-serif;
 	

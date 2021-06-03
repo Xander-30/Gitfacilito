@@ -5,7 +5,7 @@
  
  body{
     background-image: url(../imagenes/logotipo.jpg);
-    background-size: 100% 100%;
+    background-size: 200% 200%;
     background-attachment: fixed;
 }
 #navegacion{
@@ -38,14 +38,14 @@ nav li
 a
  {
    
-   color: #ffffff;
+   color: #ffa500;
 
    text-decoration:none;
  }
 a:hover
 {
     background-color: ;
-    color: #ffffff;
+    color: #ffa500;
     padding: 10px 10px 10px 10px;
 }
 
@@ -53,7 +53,7 @@ a:hover
 
  nav ul li a
  {
-   color:#0d0c0c;
+   color:#ffa500;
    font-family;
    font-size:1.0em;
 
